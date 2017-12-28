@@ -44,4 +44,8 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Seperate branches are best used when adding a new functionality to code. They
+    are also very beneficial when collaborating with others because it allows you
+    to make changes without affecting the master branch and it prevents your code
+    from being added prematurly and causing bugs that are incompatable with the
+    master branch.
